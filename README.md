@@ -1,1 +1,1 @@
-# IEEE-Latin-America-Transactions-9660
+# IEEE-Latin-America-Transactions-9660: This MATLAB code has executable MPC code, developed in the form of a Quadratic Programming (QP) problem. Only the state space system matrices have to be modified as per the requirement.
