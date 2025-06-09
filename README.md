@@ -10,5 +10,5 @@ This document has an executable, warm-started MPC-PD MATLAB code. The hardware s
 This repository contains all files required to reproduce the hardware results presented in the article.
 
 Requirements: Matlab 2021a, Quanser Qube Servo-2 pendulum platform
-
+THe results in Fig. 5-7 and Table II can be reproduced using these codes.
 For replication of results, contact: EE20D1006@nitpy.ac.in
