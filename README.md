@@ -14,5 +14,6 @@ Requirements: Matlab 2021a, Quanser Qube Servo-2 pendulum platform
 THe results in Fig. 5-7 and Table II can be reproduced using these codes.
 For replication of results, contact: EE20D1006@nitpy.ac.in
 
-![Uploading Picture2.png…]()
+![Graphical abstract](https://github.com/user-attachments/assets/7ecc9058-ea95-4866-a482-64b7df021c0c)
+
 
