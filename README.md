@@ -1,3 +1,4 @@
+
 # Soft Constrained Warm Start based MPC-PD Approach for Real Time Control of Underactuated Systems.
 Submission ID: 9660
 
@@ -12,3 +13,4 @@ This repository contains all files required to reproduce the hardware results pr
 Requirements: Matlab 2021a, Quanser Qube Servo-2 pendulum platform
 THe results in Fig. 5-7 and Table II can be reproduced using these codes.
 For replication of results, contact: EE20D1006@nitpy.ac.in
+![Graphical abstract](https://github.com/user-attachments/assets/6e2b5ffa-82e0-4e42-98aa-25a7a23de468)
