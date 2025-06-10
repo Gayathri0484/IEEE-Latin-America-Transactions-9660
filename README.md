@@ -14,7 +14,8 @@ This document has an executable, warm-started MPC-PD MATLAB code. The hardware s
 This repository contains all files required to reproduce the hardware results presented in the article.
 
 Requirements: Matlab 2021a, Quanser Qube Servo-2 pendulum platform
-THe results in Fig. 5-7 and Table II can be reproduced using these codes.
+THe results in Fig. 5-7 and Table II can be reproduced using these codes. Fig. 5. gives the arm trajectory tracking by MPC (conventional) and MPCPD (warm start based) technique, Fig. 6. gives the coontrol signal generated using MPC (conventional) and MPC-PD (warm start based) techniques. Fig. 7. Pendulum angle tracking by MPC (conventional) and MPCPD (warm start based) techniques
+
 For replication of results, contact: EE20D1006@nitpy.ac.in
 
 
