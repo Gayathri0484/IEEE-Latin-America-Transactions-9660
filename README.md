@@ -6,9 +6,13 @@ Authors: Gayathri S Menon, Vinopraba T, Lithika J, Kannan S.
 
 All authors are affiliated to: National Institute of Technology, Puducherry.
 
-This document has two SIMULINK files: conventional MPC model code (MPC.slx) and  warm-started MPC-PD Mmodel code (Warmstart_PD_MPC.slx). The hardware setup used is the Quanser Qube Servo-2 pendulum platform. 
-In MPc.slx, the function Hardware_run.m has been developed to be directly used during the hardware interface.
-In Warmstart_PD_MPC.slx, the MPC function Hardware_fn.m has been developed to be directly used during the hardware interface. The document Warmstart_PD_MPC.slx works based on the following algorithm -
+This document has two SIMULINK files: conventional MPC model (MPC.slx) and  warm-started MPC-PD model (Warmstart_PD_MPC.slx). The hardware setup used for both files is Quanser Qube Servo-2 pendulum platform. 
+
+In MPC.slx, the function Hardware_run.m has been developed to be directly used during the hardware interface.
+
+In Warmstart_PD_MPC.slx, the function Hardware_fn.m has been developed to be directly used during the hardware interface. 
+
+The document Warmstart_PD_MPC.slx works based on the following algorithm -
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3dca5274-82f3-4d94-8a14-e01529a319a6" width="400">
 </div>
