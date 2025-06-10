@@ -15,3 +15,4 @@ THe results in Fig. 5-7 and Table II can be reproduced using these codes.
 For replication of results, contact: EE20D1006@nitpy.ac.in
 
 ![Uploading Picture2.png…]()
+
