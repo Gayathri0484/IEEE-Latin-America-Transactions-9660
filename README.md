@@ -4,7 +4,7 @@ Submission ID: 9660
 
 Authors: Gayathri S Menon, Vinopraba T, Lithika J, Kannan S.
 
-All authors are affiliated to: National Institute of Technology, Puducherry.
+All authors are affiliated to: National Institute of Technology Puducherry.
 
 This document has two SIMULINK files: conventional MPC model (MPC.slx) and  warm-started MPC-PD model (Warmstart_PD_MPC.slx). The hardware setup used for both files is Quanser Qube Servo-2 pendulum platform. 
 
